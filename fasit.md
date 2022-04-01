@@ -12,13 +12,13 @@
 
 ## Flagg 1 (10 poeng)
 I mappen puppies ligger det mange bilder av hunder, finn flagget og si hva det viser til av de i hovedkvartertet for å få oppgaven godkjent  
-Hint: mapper  
+*Hint: mapper*  
 **Fasit: flagget ligger i path .... er bilde av danske flagget**
 
 
 ## Flagg 2 (10 poeng)
 Matteoppgave 1-4. Hver oppgave tilsvarer en bokstav, tilsammen danner dette et ord.   
-*Hint:   
+*Hint: *
 
 
 ## Flagg 3 (6 poeng)
@@ -41,13 +41,13 @@ Logg deg inn med ssh på bandit.labs.overthewire.org på port 2220 med brukernav
 ## Flagg 6 (10 poeng)
 Bruk Cæsar-siffer til å dekode denne strengen: zkqturumo-kx-lxkszojkt. Løsningen består av tre ekte ord.  
 *Hint: cryptii.com*  
-**teknologi-er-fremtiden**  
+**Fasit: teknologi-er-fremtiden**  
 
 
 ## Flagg 7 (15 poeng)
 Finn ut hva som står i fila binary.txt i `Top secret`.  
 *Hint: Binærtall*  
-**NTNU arrangerer capture the flag**  
+**Fasit: NTNU arrangerer capture the flag**  
 
 
 ## Flagg 8 (10 poeng)
@@ -62,6 +62,6 @@ Hint: Stalking
 
 
 ## Flagg 10 (15 poeng)
-Finn koden som er gjemt i img.svg i `Top secret.  
+Finn koden som er gjemt i img.svg i `Top secret`.  
 *Hint: Kommentar*  
 **Fasit: Adalovelace**  
